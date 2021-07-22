@@ -1,0 +1,2 @@
+export const FETCH_CREATE_USER = 'FETCH_CREATE_USER'
+export const PUT_CREATE_USER = 'PUT_CREATE_USER'
